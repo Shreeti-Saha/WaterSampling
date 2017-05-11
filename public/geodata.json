@@ -1,0 +1,482 @@
+[
+  {
+    "sampno": "IG1",
+    "EASTING": 534479.73,
+    "NORTHING": 2598049.89,
+    "WQI": 258.6791761
+  },
+  {
+    "sampno": "IG2",
+    "EASTING": 529628.67,
+    "NORTHING": 2599061.21,
+    "WQI": 411.1761882
+  },
+  {
+    "sampno": "IG3",
+    "EASTING": 530435,
+    "NORTHING": 2598124,
+    "WQI": 436.7596225
+  },
+  {
+    "sampno": "IG4",
+    "EASTING": 531819.4,
+    "NORTHING": 2601101.6,
+    "WQI": 268.2012351
+  },
+  {
+    "sampno": "IG5",
+    "EASTING": 531046.34,
+    "NORTHING": 2608603.56,
+    "WQI": 330.0061341
+  },
+  {
+    "sampno": "IG6",
+    "EASTING": 527253.79,
+    "NORTHING": 2602676.15,
+    "WQI": 322.4340445
+  },
+  {
+    "sampno": "IG7",
+    "EASTING": 527422.26,
+    "NORTHING": 2600529.95,
+    "WQI": 359.0518057
+  },
+  {
+    "sampno": "IG8",
+    "EASTING": 529685.01,
+    "NORTHING": 2599251.98,
+    "WQI": 117.4512944
+  },
+  {
+    "sampno": "IG9",
+    "EASTING": 525443.27,
+    "NORTHING": 2601919.46,
+    "WQI": 149.4819583
+  },
+  {
+    "sampno": "IG10",
+    "EASTING": 524152,
+    "NORTHING": 2605315,
+    "WQI": 123.1280668
+  },
+  {
+    "sampno": "IG11",
+    "EASTING": 523054,
+    "NORTHING": 2603990,
+    "WQI": 117.0095969
+  },
+  {
+    "sampno": "IG12",
+    "EASTING": 527243,
+    "NORTHING": 2603462,
+    "WQI": 103.2493095
+  },
+  {
+    "sampno": "IG13",
+    "EASTING": 527559,
+    "NORTHING": 2601887,
+    "WQI": 108.8050113
+  },
+  {
+    "sampno": "IG14",
+    "EASTING": 530653,
+    "NORTHING": 2600519,
+    "WQI": 315.0240485
+  },
+  {
+    "sampno": "IG15",
+    "EASTING": 531368,
+    "NORTHING": 2600895,
+    "WQI": 293.880978
+  },
+  {
+    "sampno": "IG16",
+    "EASTING": 532139,
+    "NORTHING": 2599125,
+    "WQI": 287.6184566
+  },
+  {
+    "sampno": "IG17",
+    "EASTING": 534267,
+    "NORTHING": 2598100,
+    "WQI": 340.2170821
+  },
+  {
+    "sampno": "IG18",
+    "EASTING": 528886,
+    "NORTHING": 2599567,
+    "WQI": 156.8933257
+  },
+  {
+    "sampno": "IG19",
+    "EASTING": 529181,
+    "NORTHING": 2599579,
+    "WQI": 482.0550353
+  },
+  {
+    "sampno": "IG20",
+    "EASTING": 529181,
+    "NORTHING": 2599579,
+    "WQI": 229.7045318
+  },
+  {
+    "sampno": "RG1",
+    "EASTING": 529596,
+    "NORTHING": 2602446,
+    "WQI": 77.9956716
+  },
+  {
+    "sampno": "RG2",
+    "EASTING": 529508,
+    "NORTHING": 2602554,
+    "WQI": 49.44109377
+  },
+  {
+    "sampno": "RG3",
+    "EASTING": 531902,
+    "NORTHING": 2600904,
+    "WQI": 55.14389217
+  },
+  {
+    "sampno": "RG4",
+    "EASTING": 530445,
+    "NORTHING": 2607076,
+    "WQI": 72.96010855
+  },
+  {
+    "sampno": "RG5",
+    "EASTING": 531527.51,
+    "NORTHING": 2604963.48,
+    "WQI": 19.19666734
+  },
+  {
+    "sampno": "RG6",
+    "EASTING": 528597.82,
+    "NORTHING": 2605554.06,
+    "WQI": 169.8137813
+  },
+  {
+    "sampno": "RG7",
+    "EASTING": 524972.82,
+    "NORTHING": 2603437.81,
+    "WQI": 307.5783305
+  },
+  {
+    "sampno": "RG8",
+    "EASTING": 525819.41,
+    "NORTHING": 2605696.5,
+    "WQI": 25.42545755
+  },
+  {
+    "sampno": "RG9",
+    "EASTING": 523773.38,
+    "NORTHING": 2607003.09,
+    "WQI": 130.9486055
+  },
+  {
+    "sampno": "RG10",
+    "EASTING": 526351,
+    "NORTHING": 2607958,
+    "WQI": 33.85532932
+  },
+  {
+    "sampno": "RG11",
+    "EASTING": 532286,
+    "NORTHING": 2606567,
+    "WQI": 40.26021457
+  },
+  {
+    "sampno": "RG12",
+    "EASTING": 530967,
+    "NORTHING": 2603774,
+    "WQI": 57.05431429
+  },
+  {
+    "sampno": "RG13",
+    "EASTING": 533177,
+    "NORTHING": 2602555,
+    "WQI": 167.7747929
+  },
+  {
+    "sampno": "RG14",
+    "EASTING": 535964,
+    "NORTHING": 2600681,
+    "WQI": 59.80949439
+  },
+  {
+    "sampno": "RG15",
+    "EASTING": 537237,
+    "NORTHING": 2601828,
+    "WQI": 49.01017766
+  },
+  {
+    "sampno": "RG16",
+    "EASTING": 527845,
+    "NORTHING": 2606989,
+    "WQI": 35.53967046
+  },
+  {
+    "sampno": "RG17",
+    "EASTING": 529230,
+    "NORTHING": 2605937,
+    "WQI": 148.6008065
+  },
+  {
+    "sampno": "RG18",
+    "EASTING": 534674,
+    "NORTHING": 2602990,
+    "WQI": 51.26571209
+  },
+  {
+    "sampno": "RG19",
+    "EASTING": 531270,
+    "NORTHING": 2605903,
+    "WQI": 34.02616823
+  },
+  {
+    "sampno": "RG20",
+    "EASTING": 531254,
+    "NORTHING": 2603009,
+    "WQI": 69.20757205
+  },
+  {
+    "sampno": "IS1",
+    "EASTING": 534947.12,
+    "NORTHING": 2597479.42,
+    "WQI": 207.7011261
+  },
+  {
+    "sampno": "IS2",
+    "EASTING": 528532.04,
+    "NORTHING": 2598573.9,
+    "WQI": 317.6030895
+  },
+  {
+    "sampno": "IS3",
+    "EASTING": 527639.62,
+    "NORTHING": 2600546.62,
+    "WQI": 373.8280709
+  },
+  {
+    "sampno": "IS4",
+    "EASTING": 529685.01,
+    "NORTHING": 2599251.98,
+    "WQI": 267.5601324
+  },
+  {
+    "sampno": "IS5",
+    "EASTING": 529685.01,
+    "NORTHING": 2599251.98,
+    "WQI": 167.0003239
+  },
+  {
+    "sampno": "IS6",
+    "EASTING": 525525.97,
+    "NORTHING": 2602929.22,
+    "WQI": 105.1685744
+  },
+  {
+    "sampno": "IS7",
+    "EASTING": 523824.64,
+    "NORTHING": 2604666.46,
+    "WQI": 92.98369263
+  },
+  {
+    "sampno": "IS8",
+    "EASTING": 524836.5,
+    "NORTHING": 2603569.81,
+    "WQI": 297.8443739
+  },
+  {
+    "sampno": "IS9",
+    "EASTING": 525167.16,
+    "NORTHING": 2601859.73,
+    "WQI": 93.23005854
+  },
+  {
+    "sampno": "IS10",
+    "EASTING": 527409.23,
+    "NORTHING": 2602721.59,
+    "WQI": 140.0966507
+  },
+  {
+    "sampno": "IS11",
+    "EASTING": 531005,
+    "NORTHING": 2608431,
+    "WQI": 302.512194
+  },
+  {
+    "sampno": "IS12",
+    "EASTING": 532295,
+    "NORTHING": 2599081,
+    "WQI": 319.0648115
+  },
+  {
+    "sampno": "IS13",
+    "EASTING": 527037,
+    "NORTHING": 2603165,
+    "WQI": 134.7475938
+  },
+  {
+    "sampno": "IS14",
+    "EASTING": 528689,
+    "NORTHING": 2601760,
+    "WQI": 286.5652885
+  },
+  {
+    "sampno": "IS15",
+    "EASTING": 529796,
+    "NORTHING": 2600377,
+    "WQI": 343.6656751
+  },
+  {
+    "sampno": "IS16",
+    "EASTING": 529504,
+    "NORTHING": 2599770,
+    "WQI": 317.1992134
+  },
+  {
+    "sampno": "IS17",
+    "EASTING": 531217,
+    "NORTHING": 2599533,
+    "WQI": 330.2055534
+  },
+  {
+    "sampno": "IS18",
+    "EASTING": 529142,
+    "NORTHING": 2599892,
+    "WQI": 264.9091392
+  },
+  {
+    "sampno": "IS19",
+    "EASTING": 520402,
+    "NORTHING": 2607560,
+    "WQI": 130.1294233
+  },
+  {
+    "sampno": "IS20",
+    "EASTING": 532419,
+    "NORTHING": 2598974,
+    "WQI": 276.139409
+  },
+  {
+    "sampno": "RS1",
+    "EASTING": 531302.67,
+    "NORTHING": 2596851.8,
+    "WQI": 145.3434747
+  },
+  {
+    "sampno": "RS2",
+    "EASTING": 529483.07,
+    "NORTHING": 2602526.61,
+    "WQI": 109.8227048
+  },
+  {
+    "sampno": "RS3",
+    "EASTING": 536100.54,
+    "NORTHING": 2602289.96,
+    "WQI": 156.5189151
+  },
+  {
+    "sampno": "RS4",
+    "EASTING": 531411.55,
+    "NORTHING": 2606159.51,
+    "WQI": 116.1995686
+  },
+  {
+    "sampno": "RS5",
+    "EASTING": 530541.43,
+    "NORTHING": 2607425.94,
+    "WQI": 155.6118085
+  },
+  {
+    "sampno": "RS6",
+    "EASTING": 527699.87,
+    "NORTHING": 2604250.1,
+    "WQI": 123.6682437
+  },
+  {
+    "sampno": "RS7",
+    "EASTING": 523837.95,
+    "NORTHING": 2607076.53,
+    "WQI": 100.7545224
+  },
+  {
+    "sampno": "RS8",
+    "EASTING": 526293,
+    "NORTHING": 2607746,
+    "WQI": 92.76100644
+  },
+  {
+    "sampno": "RS9",
+    "EASTING": 527695,
+    "NORTHING": 2607053,
+    "WQI": 108.6227812
+  },
+  {
+    "sampno": "RS10",
+    "EASTING": 528518,
+    "NORTHING": 2606342,
+    "WQI": 123.1080422
+  },
+  {
+    "sampno": "RS11",
+    "EASTING": 533149,
+    "NORTHING": 2601887,
+    "WQI": 122.8576713
+  },
+  {
+    "sampno": "RS12",
+    "EASTING": 536317,
+    "NORTHING": 2600208,
+    "WQI": 127.7487968
+  },
+  {
+    "sampno": "RS13",
+    "EASTING": 537191,
+    "NORTHING": 2601864,
+    "WQI": 122.3837534
+  },
+  {
+    "sampno": "RS14",
+    "EASTING": 537885,
+    "NORTHING": 2600812,
+    "WQI": 104.8655874
+  },
+  {
+    "sampno": "RS15",
+    "EASTING": 537080,
+    "NORTHING": 2599390,
+    "WQI": 127.4176297
+  },
+  {
+    "sampno": "RS16",
+    "EASTING": 531401,
+    "NORTHING": 2603292,
+    "WQI": 139.0175458
+  },
+  {
+    "sampno": "RS17",
+    "EASTING": 530934,
+    "NORTHING": 2607361,
+    "WQI": 139.1892432
+  },
+  {
+    "sampno": "RS18",
+    "EASTING": 532525,
+    "NORTHING": 2605921,
+    "WQI": 115.2909869
+  },
+  {
+    "sampno": "RS19",
+    "EASTING": 535815,
+    "NORTHING": 2604212,
+    "WQI": 116.4992285
+  },
+  {
+    "sampno": "RS20",
+    "EASTING": 529373,
+    "NORTHING": 2606608,
+    "WQI": 114.589957
+  }
+]
