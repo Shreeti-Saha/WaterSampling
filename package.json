@@ -1,7 +1,7 @@
 {
   "name": "watersampling",
-  "version": "0.0.1",
-  "description": "a project for phd research on water",
+  "version": "1.0.0",
+  "description": "water sampling",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,16 +11,13 @@
     "type": "git",
     "url": "git+https://github.com/Shreeti-Saha/WaterSampling.git"
   },
-  "keywords": [
-    "nodejs"
-  ],
-  "author": "Subhadip",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shreeti-Saha/WaterSampling/issues"
   },
   "homepage": "https://github.com/Shreeti-Saha/WaterSampling#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.3"
   }
 }
