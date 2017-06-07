@@ -155,16 +155,17 @@ angular.module('mapCtrl',[]).controller('mapController',function($scope){
 
           //	console.log("positions----->"+proj4(utm,wgs84,["+locations[i].NORTHING+", "+locations[i].EASTING+"])+" "+locations[i].EASTING +","+ locations[i].NORTHING);
 
-          function toggleHeatmap() {
-            heatmap.setMap(heatmap.getMap() ? null : map);
+         $scope.toogleHeatmap = function toggleHeatmap() {
+            heatmap.setMap(heatmap.getMap() ? null : $scope.map);
           }
-          function toogleMarker() {
-            for (var i = 0; i < markers.length; i++) {
-              if (markers[i].getMap() === null) {
-                markers[i].setMap(map);
+
+          $scope.toogleMarker = function toogleMarker() {
+            for (var i = 0; i < $scope.markers.length; i++) {
+              if ($scope.markers[i].getMap() === null) {
+                $scope.markers[i].setMap($scope.map);
               }
               else {
-                markers[i].setMap(null);
+                $scope.markers[i].setMap(null);
               }
             }
           }
