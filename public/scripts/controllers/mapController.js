@@ -182,7 +182,7 @@ angular.module('mapCtrl',[]).controller('mapController',function($scope){
         
         setTimeout(function() {
             $scope.initialize();
-        }, 1000);
+        }, 500);
     }
 
           
