@@ -98,9 +98,9 @@ angular.module('mapCtrl',[]).controller('mapController',function($scope){
           var heatmapData = [];
           var marker, i, lat_longi;
           var locations;
-          $.getJSON("geodata.json", function (json) {
+          $.getJSON("./data/geodata.json", function (json) {
             locations = json;
-            //console.log(json); // this will show the info it in firebug console
+           // console.log(json); // this will show the info it in firebug console
             for (i = 0; i < locations.length; i++) {
               lat_longi = proj4(utm, wgs84, [locations[i].EASTING, locations[i].NORTHING]);
               //	console.log(lat_longi);

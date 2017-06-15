@@ -18,11 +18,9 @@
   },
   "homepage": "https://github.com/Shreeti-Saha/WaterSampling#readme",
   "dependencies": {
-    "angular": "^1.6.4",
-    "angular-route": "^1.6.4",
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "method-override": "^2.3.9",
-    "proj4": "^2.4.3"
+    "method-override": "^2.3.9"
+    
   }
 }
